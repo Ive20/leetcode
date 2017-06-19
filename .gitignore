@@ -1,5 +1,7 @@
 
 ipch/
+Debug/
+leetcode/Debug
 *.sdf
 *.suo
 *.opensdf
