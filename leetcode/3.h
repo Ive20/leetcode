@@ -7,7 +7,7 @@ public:
         if(s.length()==1){
             return 1;
         }
-		int length =0;
+		
 		string used ="";
 		string leftused ="";
 		string rightused ="";
