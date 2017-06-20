@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 Solution s;
-string str= "qwe0gdas";
+string str= "rnfpmnkzsprluasuuygselcgwi";
     int n=s.lengthOfLongestSubstring(str);
     cout<<n;
 	int m;
